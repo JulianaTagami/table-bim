@@ -13,6 +13,6 @@ var tdBmi = paciente.querySelector(".bmi");
 
 var bmi = peso / (altura * altura) ;
 
-tdBmi.textContent = bmi
+tdBmi.textContent = bmi;
 
 
