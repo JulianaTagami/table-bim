@@ -10,3 +10,7 @@ body {
 .table-style{
     background-color: gray;
 }
+
+.table-style--2{
+    background-color: antiquewhite;
+}
