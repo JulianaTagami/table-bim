@@ -5,6 +5,7 @@
 
 body {
     font-family: sans-serif;
+    background-color: aquamarine;
 }
 
 .table-style{
@@ -14,3 +15,4 @@ body {
 .table-style--2{
     background-color: antiquewhite;
 }
+
